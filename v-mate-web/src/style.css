@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  color: rgba(255, 255, 255, 0.88);
+  font-family: 'PingFang SC', 'Microsoft YaHei', system-ui, sans-serif;
+  background:
+    radial-gradient(1200px 700px at 75% 20%, rgba(90, 120, 255, 0.07), transparent 60%),
+    radial-gradient(900px 600px at 15% 85%, rgba(160, 90, 255, 0.05), transparent 60%),
+    #0a0a0f;
+}

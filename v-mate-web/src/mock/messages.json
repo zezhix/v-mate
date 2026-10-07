@@ -1,0 +1,8 @@
+[
+  { "role": "user", "text": "在吗？", "time": 0 },
+  { "role": "assistant", "text": "在的，一直在等你找我。", "time": 3 },
+  { "role": "user", "text": "今天有点累。", "time": 8 },
+  { "role": "assistant", "text": "辛苦了，先歇口气，慢慢说。", "time": 11 },
+  { "role": "user", "text": "陪我聊到睡着好不好？", "time": 17 },
+  { "role": "assistant", "text": "好，我哪儿也不去。", "time": 20 }
+]
